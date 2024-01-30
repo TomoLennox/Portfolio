@@ -1,1 +1,1 @@
-# ClickQuack.github.io yay
+# ClickQuack.github.io
