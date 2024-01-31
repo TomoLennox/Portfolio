@@ -1,3 +1,9 @@
+body {
+  margin: 0;
+  background: linear-gradient(#121416, #000000);
+  text-align: center;
+}
+
 ::-moz-scrollbar {
     width: 10px; /* Width of the scrollbar */
     background-color: #f5f5f5; /* Background color of the scrollbar */
